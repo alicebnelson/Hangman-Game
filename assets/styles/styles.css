@@ -1,0 +1,45 @@
+.hidden {
+    display: none;
+}
+
+body {
+    background-image: url("../images/background.jpg");
+    background-size: 100%;
+ 
+    
+
+}
+
+html, body {
+    margin: 0;
+    height: 100%;
+}
+
+h1 {
+    font-family: 'VT323', monospace;
+    font-size: 40px;
+}
+
+#hangmanWord {
+    font-family: 'VT323', monospace;
+    font-size: 30px;
+}
+
+.fontStyle {
+    font-family: 'VT323', monospace;
+    font-size: 30px;
+}
+
+.col-centered{
+    text-align: center;
+}
+
+.border {
+    border-style: solid;
+    border-width: 5px;
+    margin-top: 5em;
+    margin-bottom: 5em;
+    background-color: rgba(256, 256, 256, 0.8);
+    
+}
+
